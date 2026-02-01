@@ -6,7 +6,7 @@ This project is an AI-powered Smart Assistant that helps users understand
 Iron Lady’s courses, eligibility, fees, enrollment process, and placement support.
 
 ## Demo Video
-
+https://drive.google.com/file/d/1E5b2U1x9-sgAov4OMBTgeySXpMvc4bqT/view?usp=drive_link
 
 ## Tech Stack
 - Java
